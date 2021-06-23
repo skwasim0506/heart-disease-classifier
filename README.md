@@ -54,15 +54,15 @@ The following tools are going to be used for data analysis, manipulation and mod
 
 ### Feature importance
 
-![Feature Importance](https://github.com/skwasim0506/heart-disease-classifier/blob/master/plots/feature_importance.png)
+![Feature Importance](https://github.com/skwasim0506/heart-disease-classifier/tree/main/plots/feature_importance.png)
 
 ### Correlation matrix
 
-![Correlation Matrix](https://github.com/skwasim0506/heart-disease-classifier/blob/master/plots/correlation_matrix.png)
+![Correlation Matrix](https://github.com/skwasim0506/heart-disease-classifier/tree/main/plots/correlation_matrix.png)
 
 ### ROC curve
 
-![ROC Curve](https://github.com/skwasim0506/heart-disease-classifier/blob/master/plots/roc-curve.png)
+![ROC Curve](https://github.com/skwasim0506/heart-disease-classifier/tree/main/plots/roc-curve.png)
 
 Please leave a ⭐ if you find this useful! Feel free to reach out to me for any queries!
 
